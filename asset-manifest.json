@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.5c734873.chunk.css",
-    "main.js": "/website/static/js/main.3a359018.chunk.js",
-    "main.js.map": "/website/static/js/main.3a359018.chunk.js.map",
-    "runtime-main.js": "/website/static/js/runtime-main.8e2ace26.js",
-    "runtime-main.js.map": "/website/static/js/runtime-main.8e2ace26.js.map",
-    "static/js/2.d65e8f9b.chunk.js": "/website/static/js/2.d65e8f9b.chunk.js",
-    "static/js/2.d65e8f9b.chunk.js.map": "/website/static/js/2.d65e8f9b.chunk.js.map",
-    "static/js/3.a0ddaf22.chunk.js": "/website/static/js/3.a0ddaf22.chunk.js",
-    "static/js/3.a0ddaf22.chunk.js.map": "/website/static/js/3.a0ddaf22.chunk.js.map",
-    "index.html": "/website/index.html",
-    "static/css/main.5c734873.chunk.css.map": "/website/static/css/main.5c734873.chunk.css.map",
-    "static/js/2.d65e8f9b.chunk.js.LICENSE.txt": "/website/static/js/2.d65e8f9b.chunk.js.LICENSE.txt",
-    "static/media/NithinRichardResume.6c264b49.pdf": "/website/static/media/NithinRichardResume.6c264b49.pdf",
-    "static/media/profile.1b00e17f.jpg": "/website/static/media/profile.1b00e17f.jpg"
+    "main.css": "/static/css/main.5c734873.chunk.css",
+    "main.js": "/static/js/main.3a359018.chunk.js",
+    "main.js.map": "/static/js/main.3a359018.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ef75154.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ef75154.js.map",
+    "static/js/2.d65e8f9b.chunk.js": "/static/js/2.d65e8f9b.chunk.js",
+    "static/js/2.d65e8f9b.chunk.js.map": "/static/js/2.d65e8f9b.chunk.js.map",
+    "static/js/3.a0ddaf22.chunk.js": "/static/js/3.a0ddaf22.chunk.js",
+    "static/js/3.a0ddaf22.chunk.js.map": "/static/js/3.a0ddaf22.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5c734873.chunk.css.map": "/static/css/main.5c734873.chunk.css.map",
+    "static/js/2.d65e8f9b.chunk.js.LICENSE.txt": "/static/js/2.d65e8f9b.chunk.js.LICENSE.txt",
+    "static/media/NithinRichardResume.6c264b49.pdf": "/static/media/NithinRichardResume.6c264b49.pdf",
+    "static/media/profile.1b00e17f.jpg": "/static/media/profile.1b00e17f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e2ace26.js",
+    "static/js/runtime-main.5ef75154.js",
     "static/js/2.d65e8f9b.chunk.js",
     "static/css/main.5c734873.chunk.css",
     "static/js/main.3a359018.chunk.js"
