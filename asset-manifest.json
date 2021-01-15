@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nithinrichard.com/static/css/main.5c734873.chunk.css",
-    "main.js": "/nithinrichard.com/static/js/main.3a359018.chunk.js",
-    "main.js.map": "/nithinrichard.com/static/js/main.3a359018.chunk.js.map",
-    "runtime-main.js": "/nithinrichard.com/static/js/runtime-main.3b79ded7.js",
-    "runtime-main.js.map": "/nithinrichard.com/static/js/runtime-main.3b79ded7.js.map",
-    "static/js/2.d65e8f9b.chunk.js": "/nithinrichard.com/static/js/2.d65e8f9b.chunk.js",
-    "static/js/2.d65e8f9b.chunk.js.map": "/nithinrichard.com/static/js/2.d65e8f9b.chunk.js.map",
-    "static/js/3.a0ddaf22.chunk.js": "/nithinrichard.com/static/js/3.a0ddaf22.chunk.js",
-    "static/js/3.a0ddaf22.chunk.js.map": "/nithinrichard.com/static/js/3.a0ddaf22.chunk.js.map",
-    "index.html": "/nithinrichard.com/index.html",
-    "static/css/main.5c734873.chunk.css.map": "/nithinrichard.com/static/css/main.5c734873.chunk.css.map",
-    "static/js/2.d65e8f9b.chunk.js.LICENSE.txt": "/nithinrichard.com/static/js/2.d65e8f9b.chunk.js.LICENSE.txt",
-    "static/media/NithinRichardResume.6c264b49.pdf": "/nithinrichard.com/static/media/NithinRichardResume.6c264b49.pdf",
-    "static/media/profile.1b00e17f.jpg": "/nithinrichard.com/static/media/profile.1b00e17f.jpg"
+    "main.css": "/static/css/main.5c734873.chunk.css",
+    "main.js": "/static/js/main.3a359018.chunk.js",
+    "main.js.map": "/static/js/main.3a359018.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5ef75154.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5ef75154.js.map",
+    "static/js/2.d65e8f9b.chunk.js": "/static/js/2.d65e8f9b.chunk.js",
+    "static/js/2.d65e8f9b.chunk.js.map": "/static/js/2.d65e8f9b.chunk.js.map",
+    "static/js/3.a0ddaf22.chunk.js": "/static/js/3.a0ddaf22.chunk.js",
+    "static/js/3.a0ddaf22.chunk.js.map": "/static/js/3.a0ddaf22.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5c734873.chunk.css.map": "/static/css/main.5c734873.chunk.css.map",
+    "static/js/2.d65e8f9b.chunk.js.LICENSE.txt": "/static/js/2.d65e8f9b.chunk.js.LICENSE.txt",
+    "static/media/NithinRichardResume.6c264b49.pdf": "/static/media/NithinRichardResume.6c264b49.pdf",
+    "static/media/profile.1b00e17f.jpg": "/static/media/profile.1b00e17f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b79ded7.js",
+    "static/js/runtime-main.5ef75154.js",
     "static/js/2.d65e8f9b.chunk.js",
     "static/css/main.5c734873.chunk.css",
     "static/js/main.3a359018.chunk.js"
